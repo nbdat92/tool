@@ -1,0 +1,4 @@
+sudo apt update -y
+apt install xfce4 -y
+apt install xrdp -y
+apt install firefox -y
